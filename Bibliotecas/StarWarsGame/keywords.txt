@@ -1,0 +1,3 @@
+StarWars	KEYWORD1
+mover_nave	KEYWORD2
+atirando	KEYWORD2

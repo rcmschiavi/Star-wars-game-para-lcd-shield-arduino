@@ -1,3 +1,7 @@
+/*Código utilizado para criar as bibliotecas, contém diversos bugs que não foram corrigidos
+ * 
+ * Rodolfo C M Schiavi 05/18
+ */
 
 #include <LiquidCrystal.h> // Inclui biblioteca "LiquidCristal.h"
 

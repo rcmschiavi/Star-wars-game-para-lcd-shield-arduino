@@ -1,0 +1,11 @@
+StarWarsFull	KEYWORD1
+inicio_jogo	KEYWORD2
+move_cima	KEYWORD2
+move_baixo	KEYWORD2
+move_frente	KEYWORD2
+criar_enemy	KEYWORD2
+tiro	KEYWORD2
+set_nivel	KEYWORD2
+get_score	KEYWORD2
+over	KEYWORD2
+vel_inimigo	KEYWORD2
