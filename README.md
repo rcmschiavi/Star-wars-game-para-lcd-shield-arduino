@@ -13,7 +13,7 @@ Biblioteca que possue as funções anteriores e também cria naves inimigas e lida 
 O exemplo de funcionamento é o código exemplo 5.
 
 ### Caracteres das bibliotecas
-![Figura 2 - Caracteres criados](imagens\caracteres.jpg)
+![Figura 2 - Caracteres criados](imagens/caracteres.jpg)
 
 ## Códigos de exemplo
 
@@ -26,7 +26,7 @@ Código básico que inicializa o display, imprime "Hello world!" na tela e permite
 
 ### Código exemplo 2
 Exemplo que cria um caracter e salva na memória do display para manipula-lo na tela.
-![Figura 3 - Caracteres sugeridos](imagens\caracteres1.jpg)
+![Figura 3 - Caracteres sugeridos](imagens/caracteres1.jpg)
 
 ### Código exemplo 3
 Esse exemplo requer a instalação da biblioteca disponível nesse repositório, basta instalar na pasta libraries do arduino, geralmente na pasta documentos
@@ -45,7 +45,7 @@ Código criado inicialmente para gerar as bibliotecas. Contém alguns bugs, pois d
 Caso você não tenha a shield e/ou um arduino, é possível utilizar o código no projeto do proteus 7.1.
 Basta compilar o projeto e copiar o endereço da pasta temporária gerada na compilação, é possível ve-la em vermelho nas informações de compilação. Adicione o arquivo hex desta pasta no local indicado na figura 2.
 
-![Figura 4 - Utilizando o arduino no proteus](imagens\proteus.jpg)
+![Figura 4 - Utilizando o arduino no proteus](imagens/proteus.jpg)
 
 ### To-do:
 - Corrigir bugs na biblioteca StarWarsFull;
