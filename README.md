@@ -14,6 +14,7 @@ O exemplo de funcionamento é o código exemplo 5.
 
 ### Caracteres das bibliotecas
 ![Figura 1 - Caracteres criados](imagens/caracteres.jpg)
+
 Figura 1 - Caracteres criados
 
 ## Códigos de exemplo
@@ -21,6 +22,7 @@ Figura 1 - Caracteres criados
 Este repositório contém códigos de exemplo para utilização do shield arduino da figura figura 1. Os códigos estão em nível de complexidade.
 
 ![Figura 2 - Shield LCD](https://http2.mlstatic.com/display-lcd-keypad-shield-16x02-com-teclado-botoes-arduino-D_NQ_NP_513521-MLB20797065961_072016-F.jpg)
+
 Figura 2 - Shield LCD
 
 ### Código exemplo 1
@@ -29,6 +31,7 @@ Código básico que inicializa o display, imprime "Hello world!" na tela e permite
 ### Código exemplo 2
 Exemplo que cria um caracter e salva na memória do display para manipula-lo na tela.
 ![Figura 3 - Caracteres sugeridos](imagens/caracteres1.jpg)
+
 Figura 3 - Caracteres sugeridos no exemplo
 
 ### Código exemplo 3
@@ -49,6 +52,7 @@ Caso você não tenha a shield e/ou um arduino, é possível utilizar o código no pr
 Basta compilar o projeto e copiar o endereço da pasta temporária gerada na compilação, é possível ve-la em vermelho nas informações de compilação. Adicione o arquivo hex desta pasta no local indicado na figura 4.
 
 ![Figura 4 - Utilizando o arduino no proteus](imagens/proteus.jpg)
+
 Figura 4 - Utilizando o arduino no proteus
 
 ### To-do:
